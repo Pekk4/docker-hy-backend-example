@@ -1,3 +1,9 @@
+# Note
+
+This is a copy of https://github.com/docker-hy/material-applications backend-example, for testing the project in the [exercise 3.2](https://devopswithdocker.com/part-3/2-deployment-pipelines). This repository will be deleted later.
+
+
+
 # backend-example-docker
 
 This project is created to help learn docker configurations for backend projects. Student has to figure out how to construct their configuration based on the README. However, there are some additional helpers added in the README and in the exercise description.
